@@ -118,9 +118,9 @@ Annual Volatility: 0.1393
 
 ## Optional Improvements
 
- [ x ] Download data from api
- [ x ] Test with 2025 data
- [ x ] Compare with sequential optimization
+ - [x] Download data from api
+ - [x] Test with 2025 data
+ - [x] Compare with sequential optimization
 
 
  ## GEN AI Usage
