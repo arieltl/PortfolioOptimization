@@ -88,7 +88,9 @@ The performance comparison script will run the optimization with different numbe
 
 ## Performance Comparison Results
 This are results from the performance comparison script ran on a asus zephyrus g16 2024 laptop.
-32 gb ram 
+
+- 32 gb ram
+- Ryzen 9 AI 370 
 | Simulations | Sequential Time (s) | Parallel Time (s) | Speedup Factor | Seq Sharpe | Par Sharpe |
 |------------|-------------------|------------------|----------------|------------|------------|
 | 2          | 4.89              | 8.40             | 0.58x          | 2.4703     | 2.4278     |
